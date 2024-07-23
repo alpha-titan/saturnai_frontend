@@ -1,9 +1,5 @@
 # Investment Details Extractor using open AI
 
-
-
-
-
 ## Setup 
 
 1. **Clone the repo**
@@ -33,3 +29,5 @@
 
 #### after upload
 ![after upload](image-1.png)
+
+
